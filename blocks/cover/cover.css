@@ -1,0 +1,17 @@
+@import url(./__background/cover__background.css);
+@import url(./__overlay/cover__overlay.css);
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+@import url(./__titles/cover__titles.css);
+@import url(./__link/cover__link.css);
+
+
+.cover {
+  margin: 0 auto 92px;
+  max-width: 1184px;
+  padding-bottom: 62.5%;
+}
+
+.cover:hover {
+  cursor: url(../../../images/Pointercursor.svg), auto;
+}

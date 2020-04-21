@@ -1,0 +1,18 @@
+.place__link {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.22;
+  font-weight: 400;
+  color: white;
+  /* Увеличиваем расстояние между текстом и подчеркиванием*/
+  text-decoration: none;
+  display: table;
+  border-bottom: 1.5px solid white;
+  line-height: 22px;
+}
+
+.place__link:hover {
+  opacity: .8;
+  cursor: url(../../../images/Pointercursor.svg), auto;
+
+}

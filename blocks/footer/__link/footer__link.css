@@ -1,0 +1,29 @@
+.footer__link {
+  display: inline;
+  margin: 0 18px 0 0;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+
+}
+
+.footer__link:hover {
+  cursor: url(../../../images/Pointercursor.svg), auto;
+}
+
+@media all and (max-width: 842px) {
+  .footer__link {
+    margin: 0 0 32px;
+  }
+
+  .footer__link:last-of-type {
+    margin: 0;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
+}
+

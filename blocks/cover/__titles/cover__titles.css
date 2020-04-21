@@ -1,0 +1,12 @@
+.cover__titles {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cover__titles:hover {
+  cursor: url(../../../images/Pointercursor.svg), auto;
+}
