@@ -22,3 +22,9 @@
     line-height: 1.25;
   }
 }
+
+@media all and (max-width: 470px) {
+  .lead__subtitle {
+    width: 300px;
+  }
+}
