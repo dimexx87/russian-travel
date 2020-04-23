@@ -11,7 +11,3 @@
   background-size: cover;
   position: relative;
 }
-
-.cover:hover {
-  cursor: url(../../../images/Pointercursor.svg), auto;
-}

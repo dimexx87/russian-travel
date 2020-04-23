@@ -7,6 +7,5 @@
  }
 
 .header__lang-link:hover {
-  cursor: url(../../../images/Pointercursor.svg), auto;
   opacity: .8;
 }

@@ -14,6 +14,4 @@
 
 .place__link:hover {
   opacity: .8;
-  cursor: url(../../../images/Pointercursor.svg), auto;
-
 }
