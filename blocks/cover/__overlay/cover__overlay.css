@@ -9,7 +9,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  transition: 1s;
 }
+
 .cover__overlay:hover {
   background: rgba(42, 44, 47, .8);
   cursor: url(../../../images/Pointercursor.svg), auto;
