@@ -1,14 +1,7 @@
 .place__image {
   width: 46.7%;
+  height: 46.7%;
   margin: 0 4% 0 0;
-
-}
-
-@media all and (max-width: 1017px) {
-  .place__image {
-    height: 46.7%;
-    
-  }
 }
 
 @media all and (max-width: 675px) {
