@@ -3,7 +3,6 @@
 
 .photo-grid {
   max-width: 1184px;
-  min-height: 671px;
   margin: 0 auto 92px;
   display: grid;
   grid-gap: 16px;

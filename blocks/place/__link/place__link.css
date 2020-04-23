@@ -9,6 +9,7 @@
   display: table;
   border-bottom: 1.5px solid white;
   line-height: 22px;
+  transition: opacity .5s;
 }
 
 .place__link:hover {
