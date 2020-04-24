@@ -1,5 +1,5 @@
 .header__lang-link_aсtive {
-  margin-right: 18px;
+  
   /* Подчеркиваем и увеличиваем (от стандарного) расстояние между текстом и подчеркиванием*/
   border-bottom: 1.5px solid white;
 }

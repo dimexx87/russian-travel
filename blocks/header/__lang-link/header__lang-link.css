@@ -4,8 +4,11 @@
   text-decoration: none;
   color: white;
   transition: opacity .5s;
+  margin-left: 18px;
  }
 
 .header__lang-link:hover {
   opacity: .8;
 }
+
+

@@ -10,6 +10,8 @@
   flex-direction: column;
   justify-content: center;
   transition: 1s;
+  color: white;
+  text-decoration: none;
 }
 
 .cover__overlay:hover {
